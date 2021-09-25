@@ -53,14 +53,14 @@ html {
     cursor: pointer;
     padding-left: 25px;
     padding-right: 25px;
+    margin-left: 7px;
+    margin-right: 7px;
 }
 
 .reset:hover {
     background-color: rgb(1, 129, 131);
 }
 
-margin-left: 7px;
-margin-right: 7px;
 .minus {
     padding-top: 10px;
     padding-bottom: 10px;
