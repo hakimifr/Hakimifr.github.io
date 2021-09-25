@@ -90,6 +90,7 @@ html {
     margin-bottom: 5px;
     margin-left: 10px;
     text-align: right;
+    position: absolute;
 }
 
 button {
