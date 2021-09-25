@@ -166,7 +166,8 @@ html {
 .reload a {
     text-decoration-color: hotpink;
     text-decoration-style: solid;
-    font
+    font-weight: bold;
+    c
 }
 
 button {
