@@ -16,14 +16,14 @@ html {
     color: black;
 }
 
-/* .buttons {
+.buttons {
 
     width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
 
-} */
+}
 
 .plus {
     border: none;
