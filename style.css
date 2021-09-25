@@ -163,7 +163,9 @@ html {
     display: flex;
 }
 
-.reload
+.reload a {
+    
+}
 
 button {
     /* padding-left: 70px; */
