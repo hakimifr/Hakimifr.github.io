@@ -164,7 +164,8 @@ html {
 }
 
 .reload a {
-    text-decoration: non;
+    text-decoration: none;
+    color: black;
 }
 
 button {
