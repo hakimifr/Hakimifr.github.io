@@ -158,7 +158,7 @@ html {
     position: absolute;
     margin-top: -500px;
     bottom: 15px; /* this */
-    right: px; /* and this */
+    right: 100px; /* and this */
     transition-property: all;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
     transition-duration: 200ms;
