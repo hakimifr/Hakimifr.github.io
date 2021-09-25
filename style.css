@@ -82,7 +82,7 @@ html {
     border-radius: 17px;
     background-color: rgba(255, 0, 0, 0.356);
     border: none;
-    position
+    background-position-x: center;
 }
 
 button {
