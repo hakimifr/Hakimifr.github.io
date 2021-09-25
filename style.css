@@ -156,7 +156,7 @@ html {
     margin-left: 10px;
     text-align: center;
     position: absolute;
-    margin-top: 500px;
+    margin-top: -500px;
     bottom: 15px; /* this */
     right: 15px; /* and this */
     transition-property: all;
