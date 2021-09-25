@@ -67,8 +67,8 @@ html {
     margin-bottom: 5px;
     background-color: rgb(38, 212, 52);
     color: white;
-    padding-left: 5px;
-    padding-right: 5px;
+    /* padding-left: 5px;
+    padding-right: 5px; */
 }
 
 .minus:hover {
