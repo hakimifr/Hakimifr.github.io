@@ -7,7 +7,7 @@ html {
 body {
     background-image: url(https://images.unsplash.com/photo-1579546929518-9e396f3cc809?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80);
     background-clip: padding-box;
-    /background-size: 1400px 680px;
+    background-size: 1400px 680px;
     background-position: center;
     background-size: auto;
     background-repeat: no-repeat;
