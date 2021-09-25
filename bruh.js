@@ -18,7 +18,8 @@ function nuke() {
 
 whatever() {
     count =- 1
-    console.log("decrement ")
+    console.log("decrement button was pressed")
+    co
 }
 
 
