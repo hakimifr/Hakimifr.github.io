@@ -20,7 +20,7 @@ function whatever() {
     count -= 1
     console.log("decrement button was pressed")
     co.innerText = count
-
+}
 
 
 
