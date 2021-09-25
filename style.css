@@ -118,6 +118,10 @@ html {
 
 .nextpage2:hover {
     background-color: rgba(107, 25, 25, 0.603);
+    padding-right: 28px;
+    padding-left: 28px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     
 }
 
