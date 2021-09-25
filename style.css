@@ -1,0 +1,169 @@
+html {
+    background-color: white;
+    font-family: 'Alegreya Sans', sans-serif;
+    background-image: ;
+}
+
+.count-title {
+    text-align: center;
+    padding-top: 50px;
+    font-size: 60px;
+    color: black;
+}
+
+#count {
+    text-align: center;
+    font-size: 50px;
+    color: black;
+}
+
+.buttons {
+
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+
+}
+
+.plus {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: black;
+    font-weight: bold;
+    margin-bottom: 5px;
+    border-radius: 17px;
+    background-color: hotpink;
+    cursor: pointer;
+}
+
+.plus:hover {
+    background-color: darkmagenta;
+}
+
+.reset {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: black;
+    font-weight: bold;
+    margin-bottom: 5px;
+    border-radius: 17px;
+    background-color: rgb(48, 189, 189);
+    cursor: pointer;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-left: 7px;
+    margin-right: 7px;
+}
+
+.reset:hover {
+    background-color: rgb(1, 129, 131);
+}
+
+.minus {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    border-radius: 17px;
+    margin-bottom: 5px;
+    background-color: rgb(38, 212, 52);
+    color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-weight: bold;
+}
+
+.minus:hover {
+    background-color: rgb(28, 122, 36);
+}
+
+.nextpage2 {
+    border-radius: 17px;
+    background-color: rgba(255, 0, 0, 0.356);
+    border: none;
+    padding-right: 28px;
+    padding-left: 28px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 10px;
+    text-align: center;
+    position: absolute;
+    margin-top: 500px;
+    bottom: 15px; /* this */
+    right: 15px; /* and this */
+}
+
+.nextpage2 a {
+    
+    color: #000000;
+    text-decoration: none;
+    
+}
+
+.nextpage2:hover {
+    background-color: rgba(107, 25, 25, 0.603);
+}
+
+button {
+    /* padding-left: 70px; */
+    padding: 7px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .whoami {
+    text-align: center;
+    size: 70px;
+    font: src='';
+}
+
+.name {
+    text-align: center;
+    size: 30px;
+}
+
+html {
+    background-color: rgb(91, 207, 207);
+    scroll-margin-block-end: 500px;
+}
+
+.hobby-list {
+    text-align: center;
+    list-style-position: inside;
+    list-style-type: square;
+}
+
+.hobby {
+    text-align: center;
+    color: blueviolet;
+}
+
+.video {
+    padding-right: 45px;
+    color: blue;
+    font-size: 60px;
+    list-style: square;
+    list-style-position: inside;
+}
+
+
+ */
