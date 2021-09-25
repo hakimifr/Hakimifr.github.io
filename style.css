@@ -63,6 +63,7 @@ html {
     padding-top: 10px;
     padding-bottom: 10px;
     border: none;
+    border-radius: 10;
 }
 
 button {
