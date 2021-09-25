@@ -16,6 +16,8 @@ function nuke() {
     co.innerText = count
 }
 
-whatever
+whatever() {
+    
+}
 
 
