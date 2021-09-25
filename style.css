@@ -113,7 +113,7 @@ html {
     
     color: #000000;
     text-decoration: none;
-    transition: padding-right padding-left padding-top padding-bottom border-radis;
+    transition: padding-right padding-left padding-top padding-bottom border-radius 1s;
     
 }
 
