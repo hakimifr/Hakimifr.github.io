@@ -59,6 +59,8 @@ html {
     background-color: rgb(1, 129, 131);
 }
 
+margin-left: 7px;
+margin-right: 7px;
 .minus {
     padding-top: 10px;
     padding-bottom: 10px;
@@ -69,8 +71,6 @@ html {
     color: white;
     padding-left: 10px;
     padding-right: 10px;
-    margin-left: 7px;
-    margin-right: 7px;
 }
 
 .minus:hover {
