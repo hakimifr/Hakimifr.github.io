@@ -18,7 +18,7 @@ function nuke() {
 
 whatever() {
     count =- 1
-    console
+    console.log("decrement ")
 }
 
 
