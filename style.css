@@ -1,0 +1,131 @@
+html {
+    background-color: grey;
+    font-family: 'Alegreya Sans', sans-serif;
+}
+
+.count-title {
+    text-align: center;
+    padding-top: 50px;
+    font-size: 60px;
+    color: white;
+}
+
+#count {
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
+
+.buttons {
+
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.plus {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    background-color: hotpink;
+    cursor: pointer;
+}
+
+.plus:hover {
+    background-color: darkmagenta;
+}
+
+.reset {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    background-color: rgb(16, 219, 219);
+    cursor: pointer;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.reset:hover {
+    background-color: rgb(1, 129, 131);
+}
+
+.minus {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 5px;
+    background-color: rgb(38, 212, 52);
+    col
+
+}
+
+button {
+    /* padding-left: 70px; */
+    padding: 7px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .whoami {
+    text-align: center;
+    size: 70px;
+    font: src='';
+}
+
+.name {
+    text-align: center;
+    size: 30px;
+}
+
+html {
+    background-color: rgb(91, 207, 207);
+    scroll-margin-block-end: 500px;
+}
+
+.hobby-list {
+    text-align: center;
+    list-style-position: inside;
+    list-style-type: square;
+}
+
+.hobby {
+    text-align: center;
+    color: blueviolet;
+}
+
+.video {
+    padding-right: 45px;
+    color: blue;
+    font-size: 60px;
+    list-style: square;
+    list-style-position: inside;
+}
+
+
+ */
