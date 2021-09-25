@@ -92,8 +92,8 @@ html {
     text-align: center;
     position: absolute;
     margin-top: 500px;
-    bottom: 0; <-- this -->
-    right: 0; <-- and this -->
+    bottom: 0; this
+    right: 0; and this
 }
 
 .nextpage2 a {
