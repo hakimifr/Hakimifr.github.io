@@ -93,7 +93,9 @@ html {
     margin-top: 500px;
 }
 
-.nextpage2
+.nextpage2:hover {
+    background-position-x: ;
+}
 
 button {
     /* padding-left: 70px; */
