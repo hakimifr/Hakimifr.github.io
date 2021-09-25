@@ -17,7 +17,8 @@ function nuke() {
 }
 
 whatever() {
-    count =-
+    count =- 1
+    console
 }
 
 
