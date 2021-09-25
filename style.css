@@ -91,6 +91,8 @@ html {
     text-align: center;
     position: absolute;
     margin-top: 500px;
+    text-decoration: none;
+    
 }
 
 .nextpage2:hover {
