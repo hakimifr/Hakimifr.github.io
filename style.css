@@ -108,8 +108,8 @@ html {
     bottom: 15px; /* this */
     right: 15px; /* and this */
     transition-property: all;
-transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-transition-duration: 150ms;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 150ms;
 }
 
 .nextpage2 a {
