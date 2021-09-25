@@ -79,14 +79,14 @@ html {
 }
 
 .nextpage2 {
+    text-decoration: none;
+    color: black;
     border-radius: 17px;
     background-color: rgba(255, 0, 0, 0.356);
     border: none;
     padding-right: 28px;
     padding-left: 28px;
     padding-top: 10px;
-    text-decoration: none;
-    color: black;
     padding-bottom: 10px;
     margin-left: 10px;
     text-align: center;
