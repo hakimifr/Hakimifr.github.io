@@ -104,7 +104,7 @@ html {
 }
 
 .nextpage2:hover (
-    backgroundrgba(255, 0, 0, 0.356);
+    background-color: rgba(255, 0, 0, 0.356);
 )
 
 button {
