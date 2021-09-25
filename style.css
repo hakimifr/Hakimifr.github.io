@@ -103,9 +103,9 @@ html {
     
 }
 
-.nextpage2:hover (
+.nextpage2:hover {
     background-color: rgba(255, 0, 0, 0.356);
-)
+}
 
 button {
     /* padding-left: 70px; */
