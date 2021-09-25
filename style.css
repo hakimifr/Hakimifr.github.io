@@ -80,7 +80,7 @@ html {
 
 .nextpage2 {
     text-decoration: none;
-    font-style: normal;
+    font-style: inherit;
     color: black;
     border-radius: 17px;
     background-color: rgba(255, 0, 0, 0.356);
