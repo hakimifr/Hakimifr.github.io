@@ -232,14 +232,22 @@ html {
 }
 
 .source:hover {
-    background-color: #ff478e;
-    padding-right: 33px;
-    padding-left: 33px;
-    padding-top: 15px;
-    padding-bottom: 15px;
-    border-radius: 20px;
-    position: absolute;
-    display: flex;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: black;
+    font-weight: bold;
+    margin-bottom: 5px;
+    border-radius: 17px;
+    background-color: rgb(48, 189, 189);
+    cursor: pointer;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 27px;
+    padding-right: 27px;
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 200ms;
 }
 
 .source a {
