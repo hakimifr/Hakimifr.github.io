@@ -5,7 +5,7 @@ html {
     background-clip: padding-box;
     /* background-size: 1400px 680px; */
     background-position: center;
-    background-size: auto;
+    background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
     height: 100vh;
