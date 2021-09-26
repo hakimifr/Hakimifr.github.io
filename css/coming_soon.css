@@ -28,7 +28,7 @@ html {
     bottom: 0px;
     top: 0px;
     left: 0px;
-    right: px;
+    right: 0px;
 
     transition-property: all;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
