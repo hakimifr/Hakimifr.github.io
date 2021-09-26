@@ -48,6 +48,11 @@ html {
     transform: scale(1);
 }
 
+.goback a {
+    
+}
+
+
 /* .goback {
     border-radius: 17px;
     background-color: #ff8cb8;
