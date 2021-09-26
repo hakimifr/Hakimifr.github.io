@@ -217,7 +217,7 @@ html {
     padding-right: 28px;
     padding-top: 10px;
     padding-bottom: 10px;
-    border
+    border-radius: 17px;
 }
 
 .reload:hover {
