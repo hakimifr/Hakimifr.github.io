@@ -74,10 +74,9 @@ html {
     border-radius: 17px;
     background-color: rgb(48, 189, 189);
     cursor: pointer;
-    padding-left: 25px;
-    padding-right: 25px;
-    margin-left: 7px;
-    margin-right: 7px;
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 200ms;
 }
 
 .reset:hover {
