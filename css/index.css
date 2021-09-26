@@ -211,13 +211,14 @@ html {
 }
 
 .reload a {
-    text-decoration: n;
+    text-decoration: none;
     color: black;
     padding-left: 28px;
     padding-right: 28px;
     padding-top: 10px;
     padding-bottom: 10px;
     border-radius: 17px;
+    backg
 }
 
 .reload:hover {
