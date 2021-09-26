@@ -250,7 +250,7 @@ html {
     padding-bottom: 15px;
     border-radius: 20px;
     position: absolute;
-    disapl
+    display: flex;
 }
 
 .source a {
