@@ -107,7 +107,7 @@ html {
     transition-property: all;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
     transition-duration: 200ms;
-    trans
+    transform: scale(1);
 }
 
 .minus:hover {
@@ -117,6 +117,7 @@ html {
     padding-top: 20px;
     padding-bottom: 20px;
     border-radius: 30px;
+    trans
 }
 
 .nextpage2 {
