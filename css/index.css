@@ -100,12 +100,7 @@ html {
 }
 
 .minus:hover {
-    background-color: darkmagenta;
-    padding-left: 30px;
-    padding-right: 30px;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    border-radius: 30px;
+    background-color: rgb(28, 122, 36);
 }
 
 .nextpage2 {
