@@ -210,7 +210,7 @@ html {
     display: flex;
 }
 
-.reload a {
+/* .reload a {
     text-decoration: none;
     color: black;
     padding-left: 28px;
@@ -220,7 +220,7 @@ html {
     border-radius: 17px;
     background: none;
     padding: 0px;
-}
+} */
 
 .reload:hover {
     background-color: #ff478e;
