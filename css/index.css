@@ -242,7 +242,9 @@ html {
     display: flex;
 }
 
-.source
+.source:hover {
+    
+}
 
 /* ------------------- begin common button config ---------------------- */
 
