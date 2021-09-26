@@ -233,7 +233,8 @@ html {
 
 .reload a:hover {
     padding-left: 33px;
-    padding-right: ;
+    padding-right: 33px;
+    padding-top: 15px;
 }
 
 /* ------------------- end reload ---------------------- */
