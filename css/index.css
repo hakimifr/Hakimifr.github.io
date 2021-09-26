@@ -231,7 +231,9 @@ html {
     border-radius: 20px;
 }
 
-.reload
+.reload a:hover {
+    
+}
 
 /* ------------------- end reload ---------------------- */
 
