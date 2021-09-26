@@ -242,9 +242,7 @@ button {
 
 @media only screen and (max-width: 600px) {
     html {
-        background-color: lightblue;
-        background-image: none;
-        scale: 5;
+            
     }
 }
 
