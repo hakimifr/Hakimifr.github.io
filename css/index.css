@@ -234,7 +234,7 @@ button {
 }
 
 @media only screen and (max-width: 600px) {
-    body {
+    html {
         background-color: lightblue;
     }
 }
