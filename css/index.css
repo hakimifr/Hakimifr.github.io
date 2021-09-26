@@ -226,7 +226,7 @@ html {
 
 .source {
     text-align: center;
-    posi
+    position: absolute;
 }
 
 .source:hover {
