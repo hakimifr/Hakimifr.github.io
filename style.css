@@ -94,8 +94,8 @@ html {
 }
 
 .nextpage2 {
-    border-radius: 17px;
-    background-color: rgba(255, 0, 0, 0.356);
+    border-radius: 17px; /* 17px */
+    background-color: #ff8cb8;
     border: none;
     padding-right: 28px;
     padding-left: 28px;
@@ -120,7 +120,7 @@ html {
 }
 
 .nextpage2:hover {
-    background-color: rgba(107, 25, 25, 0.603);
+    background-color: #ff478e;
     padding-right: 33px;
     padding-left: 33px;
     padding-top: 15px;
@@ -146,7 +146,7 @@ html {
 
 .reload {
     border-radius: 17px;
-    background-color: rgba(255, 0, 0, 0.356);
+    background-color: #ff8cb8;
     border: none;
     padding-right: 28px;
     padding-left: 28px;
@@ -168,7 +168,7 @@ html {
 }
 
 .reload:hover {
-    background-color: rgba(107, 25, 25, 0.603);
+    background-color: #ff478e;
     padding-right: 33px;
     padding-left: 33px;
     padding-top: 15px;
