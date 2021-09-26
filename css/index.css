@@ -233,7 +233,7 @@ html {
 /* ------------------- begin source code button ---------------------- */
 
 .source {
-    bottom: 15;
+    bottom: 15px;
 }
 
 .source a {
