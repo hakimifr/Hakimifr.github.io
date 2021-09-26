@@ -223,10 +223,10 @@ html {
 /* ------------------- end reload ---------------------- */
 
 /* ------------------- begin specs common config ---------------------- */
-/* 
+
 .specs {
     text-align: center;
-} */
+}
 
 /* ------------------- end specs common config ---------------------- */
 
@@ -234,7 +234,7 @@ html {
 
 .source {
     bottom: 15px;
-    position: absolute;
+    position: absolute
     text-align: center;
 }
 
