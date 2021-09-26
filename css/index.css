@@ -231,7 +231,7 @@ button {
     position: absolute;
     bottom: 0px;
     left: 80px;
-    right: 0px;
+    right: 80px;
     line-height: 24px;
     font-size: 3px;
 }
