@@ -228,10 +228,6 @@ html {
     text-align: center;
 }
 
-/* ------------------- end specs common config ---------------------- */
-
-/* ------------------- begin source code button ---------------------- */
-
 /* .source {
     bottom: 15px;
     text-align: center;
@@ -244,8 +240,6 @@ html {
     color: black;
     text-align: center;
 } */
-
-/* ------------------- begin common button config ---------------------- */
 
 button {
     padding: 9px;
