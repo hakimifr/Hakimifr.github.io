@@ -188,7 +188,7 @@ html {
 
 /* ------------------- begin reload ---------------------- */
 
-/* .reload {
+.reload {
     border-radius: 17px;
     background-color: #ff8cb8;
     border: none;
@@ -198,8 +198,8 @@ html {
     padding-bottom: 10px;
     text-align: center;
     position: absolute;
-    bottom: 15px;
-    left: 18px;
+    bottom: 15px; /* this */
+    left: 18px; /* and this */
     transition-property: all;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
     transition-duration: 200ms;
@@ -218,7 +218,7 @@ html {
     padding-top: 15px;
     padding-bottom: 15px;
     border-radius: 20px;
-} */
+}
 
 /* ------------------- end reload ---------------------- */
 
