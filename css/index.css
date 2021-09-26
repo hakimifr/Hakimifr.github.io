@@ -56,11 +56,11 @@ html {
 
 .plus:hover {
     background-color: darkmagenta;
-    padding-left: 30px;
+    /* padding-left: 30px;
     padding-right: 30px;
     padding-top: 20px;
     padding-bottom: 20px;
-    border-radius: 30px;
+    border-radius: 30px; */
     transform: scale(1.3);
 }
 
