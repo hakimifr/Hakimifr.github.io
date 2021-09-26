@@ -226,7 +226,7 @@ html {
 
 .source {
     text-align: center;
-    pos
+    position: absolute;
     bottom: 15px;
 }
 
