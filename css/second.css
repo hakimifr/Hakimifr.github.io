@@ -12,7 +12,7 @@ html {
     top: 0px;
 }
 
-.reload {
+.goback {
     border-radius: 17px;
     background-color: #ff8cb8;
     border: none;
@@ -30,12 +30,12 @@ html {
     display: flex;
 }
 
-.reload a {
+.goback a {
     text-decoration: none;
     color: black;
 }
 
-.reload:hover {
+.goback:hover {
     background-color: #ff478e;
     padding-right: 33px;
     padding-left: 33px;
