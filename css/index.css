@@ -85,16 +85,18 @@ html {
 }
 
 .minus {
+    border: none;
     padding-top: 10px;
     padding-bottom: 10px;
-    border: none;
-    border-radius: 17px;
-    margin-bottom: 5px;
-    background-color: rgb(38, 212, 52);
     color: black;
-    padding-left: 10px;
-    padding-right: 10px;
     font-weight: bold;
+    margin-bottom: 5px;
+    border-radius: 17px;
+    background-color: hotpink;
+    cursor: pointer;
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 200ms;
 }
 
 .minus:hover {
