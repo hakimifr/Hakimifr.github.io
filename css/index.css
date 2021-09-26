@@ -213,20 +213,13 @@ html {
 .reload a {
     text-decoration: none;
     color: black;
+    padding
 }
 
 .reload:hover {
     background-color: #ff478e;
     padding-right: 33px;
     padding-left: 33px;
-    padding-top: 15px;
-    padding-bottom: 15px;
-    border-radius: 20px;
-}
-
-.reload a {
-    padding-left: 33px;
-    padding-right: 33px;
     padding-top: 15px;
     padding-bottom: 15px;
     border-radius: 20px;
