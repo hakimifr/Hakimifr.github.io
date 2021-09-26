@@ -236,7 +236,7 @@ html {
     bottom: 15px;
     position: absolute;
     text-align: center;
-    border
+    border: none;
 }
 
 /* .source a {
