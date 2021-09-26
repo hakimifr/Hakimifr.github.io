@@ -55,7 +55,7 @@ html {
 .plus:hover {
     background-color: darkmagenta;
     padding-left: 30px;
-    padding-right: ;
+    padding-right: 30px;
 }
 
 .reset {
