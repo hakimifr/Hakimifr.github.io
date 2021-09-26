@@ -75,7 +75,7 @@ html {
     background-color: rgb(48, 189, 189);
     cursor: pointer;
     margin-left: 10px;
-    margin
+    margin-right: 10px;
     transition-property: all;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
     transition-duration: 200ms;
