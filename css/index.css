@@ -232,11 +232,7 @@ html {
 }
 
 .reload a:hover {
-    padding-left: 33px;
-    padding-right: 33px;
-    padding-top: 15px;
-    padding-bottom: 15px;
-    border-radius: 20px;
+    margin
 }
 
 /* ------------------- end reload ---------------------- */
