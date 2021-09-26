@@ -253,6 +253,7 @@ html {
 
 .source a {
     text-decoration: none;
+    color: black;
 }
 
 /* ------------------- begin common button config ---------------------- */
