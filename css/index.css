@@ -225,7 +225,8 @@ html {
 }
 
 .reload a {
-    pad
+    padding-left: 33px;
+    
 }
 
 /* ------------------- end reload ---------------------- */
