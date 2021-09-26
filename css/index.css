@@ -79,7 +79,7 @@ html {
     transition-property: all;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
     transition-duration: 200ms;
-    
+    transform: scale(1.25);
 }
 
 .reset:hover {
@@ -89,6 +89,8 @@ html {
     padding-top: 20px;
     padding-bottom: 20px;
     border-radius: 30px;
+    transform: scale(1.25);
+
 }
 
 .minus {
