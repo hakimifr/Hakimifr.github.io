@@ -12,7 +12,16 @@ html {
     top: 0px;
 }
 
+.buttons {
 
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+
+}
 
 .goback {
     border-radius: 17px;
