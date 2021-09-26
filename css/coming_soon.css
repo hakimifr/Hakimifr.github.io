@@ -64,13 +64,13 @@ html {
     padding-bottom: 10px;
     /* position: absolute; */
     /* left: 18px; */
-
+    /* display: flex; */
+    
     /* bottom: 15px; */
 
     transition-property: all;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
     transition-duration: 200ms;
-    display: flex;
 }
 
 .goback a {
