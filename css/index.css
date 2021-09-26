@@ -56,7 +56,8 @@ html {
     background-color: darkmagenta;
     padding-left: 30px;
     padding-right: 30px;
-    padding-top: 20;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .reset {
