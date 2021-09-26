@@ -230,6 +230,12 @@ html {
     bottom: 15px;
 }
 
+.source a {
+    text-align: center;
+    position: absolute;
+    bottom: 15px;
+}
+
 .source:hover {
     background-color: #ff478e;
     padding-right: 33px;
