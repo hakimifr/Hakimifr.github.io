@@ -76,8 +76,8 @@ html {
     cursor: pointer;
     margin-left: 10px;
     margin-right: 10px;
-    padding-left: 2px;
-    padding-right: 20px;
+    padding-left: 27px;
+    padding-right: 27px;
     transition-property: all;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
     transition-duration: 200ms;
