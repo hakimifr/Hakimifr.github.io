@@ -225,7 +225,8 @@ html {
 /* ------------------- begin source code button ---------------------- */
 
 .source {
-    borde
+    border-radius: 17px;
+    
 }
 
 
