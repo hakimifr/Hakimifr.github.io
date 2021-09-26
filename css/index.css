@@ -236,10 +236,6 @@ html {
     bottom: 15px;
     text-align: center;
     border: none;
-    padding-left: 20px;
-    padding-right: 20px;
-    align-items: center;
-    position: absolute;
 }
 
 /* .source a {
