@@ -15,5 +15,6 @@ html {
 .goback {
     text-align: center;
     position: absolute;
-    botto
+    bottom: 15px;
+    left: 10p;
 }
