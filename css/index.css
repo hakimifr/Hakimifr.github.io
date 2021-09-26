@@ -228,7 +228,7 @@ button {
 
 .welcome {
     text-align: center;
-    alig
+    align: center;
     bottom: 15px;
     position: absolute;
 }
