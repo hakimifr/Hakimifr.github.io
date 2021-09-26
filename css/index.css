@@ -218,8 +218,7 @@ html {
     padding-top: 10px;
     padding-bottom: 10px;
     border-radius: 17px;
-    position: static;
-    background-clip: unset;
+    backgr
 }
 
 .reload:hover {
