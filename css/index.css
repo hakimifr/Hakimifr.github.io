@@ -213,7 +213,8 @@ html {
 .reload a {
     text-decoration: none;
     color: black;
-    padding
+    padding-left: 28px;
+    padddin
 }
 
 .reload:hover {
