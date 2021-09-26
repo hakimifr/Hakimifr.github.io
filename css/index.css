@@ -60,8 +60,6 @@ html {
     border-radius: 30px;
 }
 
-/* ------------------- begin reset ---------------------- */
-
 .reset {
     border: none;
     padding-top: 10px;
@@ -90,10 +88,6 @@ html {
     border-radius: 30px;
 }
 
-/* ------------------- end reset ---------------------- */
-
-/* ------------------- begin decrement ---------------------- */
-
 .minus {
     border: none;
     padding-top: 10px;
@@ -117,10 +111,6 @@ html {
     padding-bottom: 20px;
     border-radius: 30px;
 }
-
-/* ------------------- end decrement ---------------------- */
-
-/* ------------------- begin nextpage button ---------------------- */
 
 .nextpage2 {
     border-radius: 17px; /* 17px */
