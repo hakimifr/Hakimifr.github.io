@@ -148,11 +148,7 @@ html {
 
 .nextpage2:hover {
     background-color: #ff478e;
-    padding-right: 33px;
-    padding-left: 33px;
-    padding-top: 15px;
-    padding-bottom: 15px;
-    border-radius: 20px;
+    transform: scale(1.2);
 }
 
 .lob {
@@ -203,11 +199,7 @@ html {
 
 .reload:hover {
     background-color: #ff478e;
-    padding-right: 33px;
-    padding-left: 33px;
-    padding-top: 15px;
-    padding-bottom: 15px;
-    border-radius: 20px;
+    transform: scale(1.2);
 }
 
 .specs {
@@ -231,7 +223,6 @@ button {
     padding: 9px;
     padding-left: 15px;
     padding-right: 15px;
-    
 }
 
 .welcome {
@@ -240,60 +231,31 @@ button {
     font-size: 14px;
 }
 
-@media only screen and (max-width: 600px) {
-    html {
-        transform: scale(5);
-    }
+.theme {
+    position: absolute;
+    bottom: 15px;
+    border-radius: 30px;
+    border: none;
+    padding-right: 28px;
+    padding-left: 28px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #ff8cb8;
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 200ms;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* .whoami {
-    text-align: center;
-    size: 70px;
-    font: src='';
+.theme:hover {
+    background-color: #ff478e;
+    transform: scale(1.2);
+    cursor: pointer;
 }
 
-.name {
-    text-align: center;
-    size: 30px;
+#dark {
+    left: 276px;
 }
 
-html {
-    background-color: rgb(91, 207, 207);
-    scroll-margin-block-end: 500px;
+#light {
+    left: 406px;
 }
-
-.hobby-list {
-    text-align: center;
-    list-style-position: inside;
-    list-style-type: square;
-}
-
-.hobby {
-    text-align: center;
-    color: blueviolet;
-}
-
-.video {
-    padding-right: 45px;
-    color: blue;
-    font-size: 60px;
-    list-style: square;
-    list-style-position: inside;
-}
-
-
- */
