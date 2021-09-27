@@ -35,6 +35,7 @@ html {
 .back {
     position: absolute;
     bottom: 15px;
+    r
     border: none;
     background-color: royalblue;
     padding-left: 30px;
@@ -43,8 +44,6 @@ html {
     padding-bottom: 12px;
     bottom: 15px;
     border-radius: 25px;
-    /* margin-right: 30px; */
-    /* display: flex; */
 }
 
 .red {
