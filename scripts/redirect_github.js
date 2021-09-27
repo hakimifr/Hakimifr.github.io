@@ -14,7 +14,7 @@ function redirect(dest) {
         window.location.href = "../html/discord.html";
     } else if (dest == "back") {
         console('going to index.html')
-        window.location.href 
+        window.location.href = "../index.html"
     }
     else {
         console.log('something went wrong')
