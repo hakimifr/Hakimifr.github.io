@@ -46,7 +46,9 @@ html {
     border-radius: 25px;
 }
 
-.back:hover
+.back:hover {
+    transform: scale(1.2);
+}
 
 .red {
     font-family: 'Quicksand', sans-serif;
