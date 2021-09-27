@@ -33,7 +33,7 @@ html {
 }
 
 .back {
-    position: ;
+    position: static;
     bottom: 15px;
     border: none;
     background-color: royalblue;
