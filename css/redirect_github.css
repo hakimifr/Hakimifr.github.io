@@ -31,7 +31,9 @@ html {
 .back {
     position: absolute;
     bottom: 15px;
-    border: ;
+    border: none;
+    background-color: royalblue;
+    
 }
 
 .red {
