@@ -29,7 +29,7 @@ html {
 }
 
 .back {
-    
+    position: absolute;
 }
 
 .red {
