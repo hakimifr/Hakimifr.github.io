@@ -10,7 +10,7 @@
 
 function darktheme() {
     document.getElementById('bg').style.backgroundColor = 'gray';
-    localStorage.setItem('')
+    localStorage.setItem('theme', 'dark')
 }
 
 function lighttheme() {
