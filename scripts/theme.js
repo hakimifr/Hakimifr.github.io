@@ -14,7 +14,7 @@ function darktheme() {
 
 function lighttheme() {
     document.getElementById('bg').style.backgroundColor = '#ff92bc88'
-    localStorage.setItem('the')
+    localStorage.setItem('theme', 'light')
 }
 
 var theme = localStorage.getItem('theme');
