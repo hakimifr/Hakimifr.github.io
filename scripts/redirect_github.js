@@ -15,8 +15,7 @@ function redirect(dest) {
     } else if (dest == "back") {
         console('going to index.html')
         window.location.href = "../index.html"
-    }
-    else {
+    } else {
         console.log('something went wrong')
     }
 }
