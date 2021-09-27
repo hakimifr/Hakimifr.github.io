@@ -34,7 +34,8 @@ html {
 
 .back {
     position: absolute;
-    /* bottom: 15px; */
+    bottom: 15px;
+    left: ;
     /* right: +630px; */
     border: none;
     background-color: royalblue;
