@@ -44,6 +44,7 @@ html {
     bottom: 15px;
     border-radius: 25px;
     /* margin-right: 30px; */
+    display: flex;
 }
 
 .red {
