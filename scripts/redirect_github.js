@@ -12,7 +12,7 @@ function redirect(dest) {
     } else if (dest == "discord") {
         console.log('beaming to discord html page');
         window.location.href = "../html/discord.html";
-    } 
+    } else if (dest )
     else {
         console.log('something went wrong')
     }
