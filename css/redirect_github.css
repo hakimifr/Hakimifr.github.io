@@ -54,6 +54,7 @@ html {
     cursor: pointer;
     transform: scale(1.9);
     left: +7px;
+    bottom: +7px;
 }
 
 .red {
