@@ -35,7 +35,7 @@ html {
 .back {
     position: absolute;
     bottom: 15px;
-    right: +500px;
+    right: +px;
     border: none;
     background-color: royalblue;
     padding-left: 30px;
