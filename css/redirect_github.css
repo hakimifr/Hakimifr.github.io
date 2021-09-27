@@ -1,3 +1,33 @@
+html {
+    background-color: pink;
+}
+
+.btn-common {
+    text-align: center;
+}
+
+.btn-common * {
+    /* text-align: center; */
+    background-color: royalblue;
+    border: none;
+    padding-left: 27px;
+    padding-right: 27px;
+    padding-top: 12px;
+    padding-bottom: 15px;
+    margin-left: 7px;
+    margin-right: 7px;
+    border-radius: 25px;
+    transform: scale(1);
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 200ms;
+}
+
+.btn-common *:hover {
+    transform: scale(1.2);
+    cursor: pointer;
+}
+
 .red {
     font-family: 'Quicksand', sans-serif;
     text-align: center;
