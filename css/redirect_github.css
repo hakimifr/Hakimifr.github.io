@@ -52,7 +52,7 @@ html {
 
 .back:hover {
     cursor: pointer;
-    padding
+    padding-right: +500px;
 }
 
 .red {
