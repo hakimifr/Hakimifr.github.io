@@ -53,6 +53,7 @@ html {
 .back:hover {
     cursor: pointer;
     transform: scale(1.9);
+    left: ;
 }
 
 .red {
