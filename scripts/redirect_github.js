@@ -13,7 +13,7 @@ function redirect(dest) {
         console.log('beaming to discord html page');
         window.location.href = "../html/discord.html";
     } else if (dest == "back") {
-        
+        console('')
     }
     else {
         console.log('something went wrong')
