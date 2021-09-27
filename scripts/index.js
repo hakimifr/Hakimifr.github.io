@@ -1,6 +1,5 @@
 
 
-
 let co = document.getElementById("count")
 let count = 0
 console.log(co)
