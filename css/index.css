@@ -1,6 +1,7 @@
 @media screen and (min-width: 900px) {
     .reload {
-        f
+        font-size: 0px;
+        border: 0;
     }
 }
 
