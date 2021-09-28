@@ -14,7 +14,8 @@
 // }
 
 function darktheme() {
-    document.getElementById('bg').style.backgroundColor = '';
+    document.getElementById('bg').style.backgroundColor = '#212121';
+    localStorage.
 }
 
 function lighttheme() {
