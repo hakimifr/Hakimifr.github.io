@@ -8,10 +8,10 @@
 // To clear:
 // localStorage.clear()
 
-// function darktheme() {
-//     document.getElementById('bg').style.backgroundColor = 'gray';
-//     localStorage.setItem('theme', 'dark')
-// }
+function darktheme() {
+    document.getElementById('bg').style.backgroundColor = 'gray';
+    localStorage.setItem('theme', 'dark')
+}
 
 // function darktheme() {
 //     document.getElementById('bg').style.backgroundColor = '#212121';
