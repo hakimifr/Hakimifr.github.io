@@ -13,7 +13,9 @@
 //     localStorage.setItem('theme', 'dark')
 // }
 
-function
+function darktheme() {
+    
+}
 
 function lighttheme() {
     document.getElementById('bg').style.backgroundColor = '#ff92bc88'
