@@ -15,7 +15,7 @@
 
 function darktheme() {
     document.getElementById('bg').style.backgroundColor = '#212121';
-    document.getElementById('bg').style.textC
+    document.getElementById('bg').style.color
     localStorage.setItem('theme', 'dark')
 }
 
