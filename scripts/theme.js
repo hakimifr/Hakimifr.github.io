@@ -14,7 +14,7 @@
 // }
 
 function darktheme() {
-    docu
+    document.getElementById('bg').style
 }
 
 function lighttheme() {
