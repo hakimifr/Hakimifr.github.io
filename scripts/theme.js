@@ -17,7 +17,7 @@ function darktheme() {
     document.getElementById('bg').style.backgroundColor = '#212121';
     document.getElementById('bg').style.color = '#c9c9c9';
     document.getElementById('count-ttl').style.color = '#c9c9c9';
-    document.getElementById('count-txt').style
+    document.getElementById('count-txt').style.color = '#c9c9c9';
     localStorage.setItem('theme', 'dark')
 }
 
