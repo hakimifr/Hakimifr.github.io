@@ -13,6 +13,8 @@
 //     localStorage.setItem('theme', 'dark')
 // }
 
+function
+
 function lighttheme() {
     document.getElementById('bg').style.backgroundColor = '#ff92bc88'
     localStorage.setItem('theme', 'light')
