@@ -3,5 +3,7 @@ html {
 }
 
 body {
-    background: linear-gradient(to bottom, );
+    background: linear-gradient(to bottom, rgb(
+        255, 94, 199
+        ));
 }
