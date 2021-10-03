@@ -22,8 +22,8 @@ function darktheme() {
 // }
 
 function lighttheme() {
-    document.getElementById('bg').style.backgroundColor = '#ff92bc88'
-    localStorage.setItem('theme', 'light')
+    localStorage.clear();
+    location.reload()
 }
 
 var theme = localStorage.getItem('theme');
