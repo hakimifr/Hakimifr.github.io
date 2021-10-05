@@ -4,6 +4,9 @@ html {
 }
 /* font check succeded */
 
-/* .btn-back {
-
-} */
+.btn-back {
+    padding-left: 3em;
+    padding-right: 3em;
+    padding-bottom: 2em;
+    padding-top: 2em;
+}
