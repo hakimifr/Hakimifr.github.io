@@ -1,6 +1,6 @@
 html {
     font-family: 'Quicksand', sans-serif;
-    background: linear-gradient(to right, pink, pink);
+    background: linear-gradient(to right, pink, rgba(255, 192, 203, 0.692));
 }
 /* font check succeded */
 
