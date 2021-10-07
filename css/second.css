@@ -15,7 +15,7 @@ html {
 
     /* remove ugly border and add color, cosmetics etc */
     border: none;
-    box-shadow: 1ex;
+    box-shadow: 5ex;
     background-color: deeppink;
     text-decoration: none;
 }
