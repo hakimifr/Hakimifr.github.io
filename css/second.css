@@ -17,7 +17,7 @@ html {
     border: none;
     background-color: deeppink;
     text-decoration: none;
-    borde;
+    border-radius: 3em;
 }
 
 .btn-back:hover {
