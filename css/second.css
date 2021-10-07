@@ -13,7 +13,8 @@ html {
     transition-duration: 200ms;
 
     /* remove ugly border and add color */
-    border
+    border: none;
+    shado
 }
 
 .btn-back:hover {
