@@ -18,7 +18,7 @@ html {
     background-color: deeppink;
     text-decoration: none;
     border-radius: 1.6em;
-    transform: sca;
+    transform: scale(1.07);
 }
 
 .btn-back:hover {
