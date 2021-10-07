@@ -14,7 +14,7 @@ html {
 
     /* remove ugly border and add color */
     border: none;
-    shado
+    box-shadow: 1ex;
 }
 
 .btn-back:hover {
