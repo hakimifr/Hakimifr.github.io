@@ -17,6 +17,7 @@ html {
     border: none;
     background-color: deeppink;
     text-decoration: none;
+    color: black;
     border-radius: 1.6em;
     transform: scale(1.07);
 }
