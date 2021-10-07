@@ -12,11 +12,11 @@ html {
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
     transition-duration: 200ms;
 
-    /* remove ugly border and add color */
+    /* remove ugly border and add color, cosmeti */
     border: none;
     box-shadow: 1ex;
     color: deeppink;
-    te
+    text-decoration: none;
 }
 
 .btn-back:hover {
