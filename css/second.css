@@ -5,9 +5,9 @@ html {
 
 .btn-back {
     padding-left: 2.5ex;
-    padding-right: 2ex;
-    padding-bottom: 2ex;
-    padding-top: 2ex;
+    padding-right: 2.5ex;
+    padding-bottom: 1.4ex;
+    padding-top: 1.4ex;
     transition-property: all;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
     transition-duration: 200ms;
