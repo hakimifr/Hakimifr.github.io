@@ -10,7 +10,9 @@ body {
 
 }
 
-btn-div 
+btn-div {
+    text-decoration: none;
+}
 
 .btn-back {
     /* general padding & margin */
