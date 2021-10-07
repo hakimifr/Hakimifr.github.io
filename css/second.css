@@ -4,6 +4,10 @@ html {
     background: radial-gradient(deeppink, pink);
 }
 
+body {
+    
+}
+
 .btn-back {
     /* general padding & margin */
     padding-left: 2.5ex;
