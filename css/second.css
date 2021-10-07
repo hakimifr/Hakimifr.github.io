@@ -15,7 +15,7 @@ html {
     /* remove ugly border and add color */
     border: none;
     box-shadow: 1ex;
-    color: deeppink;
+    twx: deeppink;
 }
 
 .btn-back:hover {
