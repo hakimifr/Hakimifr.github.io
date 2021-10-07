@@ -10,7 +10,7 @@ body {
 
 }
 
-btn-div {
+btn-div * {
     text-decoration: none;
 }
 
