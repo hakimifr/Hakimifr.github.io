@@ -256,12 +256,12 @@ button {
 }
 
 .exp-secpg-txt {
-    transorm-scale
     text-decoration: none;
     color: rgba(255, 255, 255, 0);
 }
 
 .exp-secpg:hover {
+    transform: ;
     background-color: rgb(96, 197, 164);
 }
 
