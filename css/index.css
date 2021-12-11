@@ -256,7 +256,7 @@ button {
 }
 
 .exp-secpg-txt {
-    transform: scale(1.2);
+    transorm-scale
     text-decoration: none;
     color: rgba(255, 255, 255, 0);
 }
