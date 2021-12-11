@@ -258,10 +258,13 @@ button {
 .exp-secpg-txt {
     text-decoration: none;
     color: rgba(255, 255, 255, 0);
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 200ms;
 }
 
 .exp-secpg:hover {
-    transform: ;
+    transform: scale(1.2);
     background-color: rgb(96, 197, 164);
 }
 
