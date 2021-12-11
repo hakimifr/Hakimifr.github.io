@@ -269,6 +269,6 @@ button {
 }
 
 .exp-secpg-txt:hover {
-    transform: scale();
+    transform: scale(1.2);
     color: black;
 }
