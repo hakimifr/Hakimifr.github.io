@@ -35,5 +35,7 @@ function redirect(dest) {
         case "discord":
             window.location.href = "../html/discord.html";
             console.log('beaming to discord html page');
+            break;
+            
     }
 }
