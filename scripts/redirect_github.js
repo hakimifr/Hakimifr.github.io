@@ -41,6 +41,7 @@ function redirect(dest) {
             console.log('bacc');
             break;
         default:
-            
+            console.log('something went wrong');
+
     }
 }
