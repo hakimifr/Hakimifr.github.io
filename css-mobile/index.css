@@ -3,6 +3,6 @@
     .reload {display: none}
     #dark {left: calc(276px - 270px)}
     #light {left: calc(407px - 270px)}
-    .theme {transform: scale(3)}
+    .theme {transform: scale(2)}
     .theme:hover {transform: scale(3.2)}
 }
