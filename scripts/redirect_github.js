@@ -11,7 +11,7 @@ function redirect(dest) {
             console.log('beaming to github');
             break;
         case "twitter":
-            w
+            window.location.href = "https://twitter.com/Hakimi0804";
             console.log('beaming to twitter');
             break;
         case "discord":
