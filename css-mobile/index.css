@@ -3,10 +3,5 @@
     .reload {
         display: none;
     }
-    #dark {
-        left: -5px;
-    }
-    #light {
-        left: -5px;
-    }
+    
 }
