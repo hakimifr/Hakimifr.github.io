@@ -39,6 +39,8 @@ function redirect(dest) {
         case "back":
             window.location.href = "../index.html";
             console.log('bacc');
+            break;
+        default:
             
     }
 }
