@@ -1,4 +1,4 @@
-@media only screen and (min-width: 1024px) {
+@media only screen and (max-width: 1024px) {
     /* Hide reload button altogether for mobile */
     .reload {
         display: none;
