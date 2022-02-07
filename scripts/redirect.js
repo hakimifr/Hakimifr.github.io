@@ -1,3 +1,3 @@
-function beam() {
-    
+function beam(destina) {
+
 }
