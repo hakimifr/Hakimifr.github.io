@@ -30,6 +30,6 @@ function redirect(dest) {
             break;
         case "twitter":
             console.log('beaming to twitter');
-            
+            break;
     }
 }
