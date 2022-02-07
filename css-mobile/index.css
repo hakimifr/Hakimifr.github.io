@@ -3,4 +3,5 @@
     .reload {display: none}
     #dark {left: calc(276px - 270px)}
     #light {left: calc(407px - 270px)}
+    .theme
 }
