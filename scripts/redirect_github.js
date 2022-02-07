@@ -18,5 +18,4 @@ function redirect(dest) {
     } else {
         console.log('something went wrong')
     }
-    
 }
