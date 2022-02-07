@@ -1,4 +1,4 @@
 function beam(destination) {
-    consolb
+    console.log('Beaming to')
     window.location.href = destination;
 }
