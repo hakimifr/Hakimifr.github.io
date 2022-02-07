@@ -11,7 +11,7 @@ function redirect(dest) {
             console.log('beaming to github');
             break;
         case "twitter":
-            // link to twitter will be added later
+            w
             console.log('beaming to twitter');
             break;
         case "discord":
