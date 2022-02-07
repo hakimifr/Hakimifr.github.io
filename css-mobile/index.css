@@ -4,9 +4,9 @@
         display: none;
     }
     #dark {
-        left: calc(276px - 2);
+        left: calc(276px - 200px);
     }
     #light {
-        left: calc(407px - 2);
+        left: calc(407px - 200px);
     }
 }
