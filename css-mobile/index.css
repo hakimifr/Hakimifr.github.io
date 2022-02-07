@@ -4,9 +4,9 @@
         display: none;
     }
     #dark {
-        left: left-100px;
+        left: -5px;
     }
     #light {
-        left: left-100px;
+        left: -5px;
     }
 }
