@@ -10,6 +10,7 @@
     #light {
         left: calc(407px - 270px);
         margin: auto;
+        padding: ;
     }
     .theme {transform: scale(1.3)}
     .theme:hover {transform: scale(1.5)}
