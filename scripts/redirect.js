@@ -1,1 +1,1 @@
-function redirect()
+function bea
