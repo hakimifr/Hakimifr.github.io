@@ -7,6 +7,6 @@
         left: calc(276px - 100px);
     }
     #light {
-        left: calc(407)
+        left: calc(407px - 100px);
     }
 }
