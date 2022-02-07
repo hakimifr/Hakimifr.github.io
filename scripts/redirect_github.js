@@ -25,6 +25,9 @@ function redirect(dest) {
             console.log('beaming to telegram');
             break;
         case "github":
-            window.location.href = "https://github.com/
+            window.location.href = "https://github.com/Hakimi0804";
+            console.log('beaming to github');
+            break;
+            
     }
 }
