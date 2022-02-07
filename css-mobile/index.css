@@ -7,7 +7,7 @@
     }
     #light {
         left: calc(407px - 270px);
-        p
+        padding-left: 10%;
     }
     .theme {transform: scale(2)}
     .theme:hover {transform: scale(2.2)}
