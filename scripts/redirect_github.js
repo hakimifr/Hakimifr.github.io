@@ -29,6 +29,7 @@ function redirect(dest) {
             console.log('beaming to github');
             break;
         case "twitter":
+            // 
             console.log('beaming to twitter');
             break;
     }
