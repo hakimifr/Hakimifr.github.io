@@ -32,6 +32,8 @@ function redirect(dest) {
             // link to twitter will be added later
             console.log('beaming to twitter');
             break;
-            
+        case "discord":
+            window.location.href = "../html/discord.html";
+            console.log('beaming to discord html page');
     }
 }
