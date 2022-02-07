@@ -1,3 +1,3 @@
 function beam(destination) {
-    window
+    window.location.href = destination;
 }
