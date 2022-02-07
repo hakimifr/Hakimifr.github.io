@@ -19,5 +19,7 @@ function redirect(dest) {
         console.log('something went wrong')
     }
 
-    switch (dest)
+    switch (dest) {
+        case "telegram"
+    }
 }
