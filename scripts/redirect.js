@@ -1,1 +1,3 @@
-function bea
+function beam() {
+    
+}
