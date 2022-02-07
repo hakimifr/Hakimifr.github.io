@@ -3,7 +3,7 @@
     .reload {display: none}
     #dark {
         left: calc(276px - 270px);
-        padding
+        padding-right: ;
     }
     #light {left: calc(407px - 270px)}
     .theme {transform: scale(2)}
