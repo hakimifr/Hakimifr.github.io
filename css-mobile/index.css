@@ -9,6 +9,6 @@
         left: calc(407px - 270px);
         padding-left: 10%;
     }
-    .theme {transform: scale(2)}
+    .theme {transform: scale(1.5)}
     .theme:hover {transform: scale(2.2)}
 }
