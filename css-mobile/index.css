@@ -4,6 +4,6 @@
         display: none;
     }
     #dark {
-        left: 276-100px;
+        left: calc()
     }
 }
