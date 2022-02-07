@@ -19,5 +19,5 @@ function redirect(dest) {
         console.log('something went wrong')
     }
 
-    switch
+    switch (dest)
 }
