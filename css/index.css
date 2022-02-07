@@ -266,7 +266,7 @@ button {
 .exp-secpg:hover {
     transform: scale(1.2);
     background-color: rgb(96, 197, 164);
-    curspr
+    cursor: pointer;
 }
 
 .exp-secpg-txt:hover {
