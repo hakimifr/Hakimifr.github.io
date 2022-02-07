@@ -28,6 +28,8 @@ function redirect(dest) {
             window.location.href = "https://github.com/Hakimi0804";
             console.log('beaming to github');
             break;
+        case "twitter":
+            console.log('beaming to twitter');
             
     }
 }
