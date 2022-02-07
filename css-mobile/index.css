@@ -4,6 +4,6 @@
         display: none;
     }
     #dark {
-        left: calc(276-100)
+        left: calc(276-100);
     }
 }
