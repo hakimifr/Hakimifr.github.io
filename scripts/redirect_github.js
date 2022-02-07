@@ -21,6 +21,7 @@ function redirect(dest) {
 
     switch (dest) {
         case "telegram":
-            
+            window.location.href = "https://t.me/Hakimi0804";
+            c
     }
 }
