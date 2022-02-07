@@ -20,8 +20,6 @@ function redirect(dest) {
     }
 
     switch (dest) {
-        case "telegram" {
-            
-        }
+        case "telegram" 
     }
 }
