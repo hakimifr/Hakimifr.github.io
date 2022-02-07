@@ -5,7 +5,7 @@
         left: calc(276px - 270px);
         /* padding-right: 10%; */
         margin: auto;
-        padding: 10px;
+        padding-left: 10px;
     }
     #light {
         left: calc(407px - 270px);
