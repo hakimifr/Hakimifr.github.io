@@ -9,10 +9,6 @@
 // localStorage.clear()
 
 
-function darktheme() {
-    document.getElementById('bg').style.backgroundColor = 'gray';
-    localStorage.setItem('theme', 'dark')
-}
 // function darktheme() {
 //     document.getElementById('bg').style.backgroundColor = '#212121';
 //     document.getElementById('bg').style.color = '#c9c9c9';
@@ -20,6 +16,10 @@ function darktheme() {
 //     document.getElementById('count-txt').style.color = '#c9c9c9';
 //     localStorage.setItem('theme', 'dark');
 // }
+function darktheme() {
+    document.getElementById('bg').style.backgroundColor = 'gray';
+    localStorage.setItem('theme', 'dark')
+}
 
 function lighttheme() {
     localStorage.clear();
