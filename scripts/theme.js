@@ -18,7 +18,7 @@
 // }
 function darktheme() {
     document.getElementById('bg').style.backgroundColor = 'black';
-    document.getElementById('count-title').style
+    document.getElementById('count-title').style.color = 
     localStorage.setItem('theme', 'dark')
 }
 
