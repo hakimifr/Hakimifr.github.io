@@ -13,7 +13,7 @@
     #light {
         left: calc(407px - 270px);
         margin: auto;
-        padding-left: calc(*2);
+        padding-left: calc(* 2);
         padding-right: 10px;
         padding-top: 5px;
         padding-bottom: 5px;
