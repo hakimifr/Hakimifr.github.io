@@ -18,7 +18,7 @@
 // }
 function darktheme() {
     document.getElementById('bg').style.backgroundColor = 'black';
-    document.getElementById('reload').style.color =;
+    document.getElementById('reload').style.color = 'white';
     localStorage.setItem('theme', 'dark')
 }
 
