@@ -5,10 +5,10 @@
         left: calc(276px - 270px);
         /* padding-right: 10%; */
         margin: auto;
-        padding-left: 10px;
-        padding-right: 10px;
-        padding-top: 5px;
-        padding-bottom: 5px;
+        padding-left: calc(padding-left * 2);
+        padding-right: calc(padding-right * 2);
+        padding-top: calc(padding-top * 2);
+        padding-bottom: calc(padding-bottom * 2);
     }
     #light {
         left: calc(407px - 270px);
