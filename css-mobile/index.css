@@ -14,8 +14,8 @@
         left: calc(407px - 270px);
         margin: auto;
         padding-left: calc(padding-left * 2);
-        padding-right: calc(padding-right);
-        padding-top: 5px;
+        padding-right: calc(padding-right * 2);
+        padding-top: calc(padding);
         padding-bottom: 5px;
     }
     /* .theme {transform: scale(1.3)} */
