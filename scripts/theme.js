@@ -18,7 +18,7 @@
 // }
 function darktheme() {
     document.getElementById('bg').style.backgroundColor = 'black';
-    do
+    document.getElementById()
     localStorage.setItem('theme', 'dark')
 }
 
