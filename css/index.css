@@ -280,3 +280,7 @@ button {
     display: flex;
     justify-content: stretch;
 }
+
+.main-texts {
+    justify-content: center;
+}
