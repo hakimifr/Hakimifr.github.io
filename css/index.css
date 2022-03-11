@@ -273,6 +273,6 @@ button {
 }
 
 .main-texts {
-    display: flex;
+    /* display: flex; */
     justify-content: center;
 }
