@@ -211,7 +211,7 @@ button {
     transition-duration: 200ms;
     bottom: 15px;
     left: 18px;
-    position: fixed;
+    position: absolute;
 }
 
 .theme:hover {
