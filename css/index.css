@@ -233,6 +233,8 @@ button {
     position: absolute;
     display: flex;
     bottom: 18px;
+    border: none;
+    border-radius: 100%;
 }
 
 .exp-secpg {
