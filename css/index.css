@@ -203,13 +203,8 @@ button {
 }
 
 .theme {
-    bottom: 15px;
     border-radius: 30px;
     border: none;
-    padding-right: 28px;
-    padding-left: 28px;
-    padding-top: 10px;
-    padding-bottom: 10px;
     background-color: #ff8cb8;
     transition-property: all;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
