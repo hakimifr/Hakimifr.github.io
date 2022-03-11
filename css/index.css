@@ -39,7 +39,7 @@ html {
 
 }
 
-.plus {
+#plus {
     border: none;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -55,12 +55,12 @@ html {
     transform: scale(1);
 }
 
-.plus:hover {
+#plus:hover {
     background-color: darkmagenta;
     transform: scale(1.2);
 }
 
-.reset {
+#reset {
     border: none;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -80,12 +80,12 @@ html {
     transform: scale(1);
 }
 
-.reset:hover {
+#reset:hover {
     background-color: rgb(1, 129, 131);
     transform: scale(1.2);
 }
 
-.minus {
+#minus {
     border: none;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -101,7 +101,7 @@ html {
     transform: scale(1);
 }
 
-.minus:hover {
+#minus:hover {
     background-color: rgb(28, 122, 36);
     transform: scale(1.2);
 }
