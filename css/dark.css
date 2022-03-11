@@ -44,6 +44,7 @@ html {
 }
 
 #nextpage {
+    display: flex;
     background-color: #a05874;
     right: none;
     align-items: center;
