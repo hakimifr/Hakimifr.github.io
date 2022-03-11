@@ -2,7 +2,7 @@
     #reload {display: none}
     .theme-button {
         /* make them stack on top of each other */
-        position: absolute;
+        position: relative;
         bottom: 15px;
         left: 18px;
         padding-right: 45px;
