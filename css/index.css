@@ -237,6 +237,7 @@ button {
 }
 
 .theme-button {
+    border: none;
     border-radius: 70px;
     background-color: #ff8cb8;
     padding-right: 28px;
