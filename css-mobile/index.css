@@ -5,6 +5,8 @@
         position: absolute;
         bottom: 15px;
         left: 18px;
+        padding-left: 15px;
+        padding-right: 15px;
         /* align-items: center; */
     }
     #dark {
