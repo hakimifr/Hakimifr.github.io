@@ -17,3 +17,7 @@ html {
 #plus {
     background-color: darkorchid;
 }
+
+#plus:hover {
+    background-color: blueviolet;
+}
