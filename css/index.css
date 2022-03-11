@@ -282,6 +282,6 @@ button {
 }
 
 .main-texts {
-    display: flex;
+    display: inherit;
     justify-content: center;
 }
