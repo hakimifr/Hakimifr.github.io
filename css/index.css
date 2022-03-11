@@ -235,8 +235,9 @@ button {
     bottom: 18px;
 }
 
-.theme {
-    border-radius: 100%;
+.theme-button {
+    border-radius: 70px;
+    background-color: #ff8cb8;
 }
 
 .exp-secpg {
