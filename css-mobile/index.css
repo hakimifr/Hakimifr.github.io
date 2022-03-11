@@ -17,7 +17,7 @@
     #light {
         /* make them stack on top of each other */
         position: absolute;
-        bottom: 15px;
+        bottom: 20px;
         left: 18px;
         /* align-items: center; */
     }
