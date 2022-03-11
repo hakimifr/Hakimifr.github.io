@@ -17,13 +17,6 @@ html {
     background: linear-gradient(to right, rgb(255, 77, 193) rgba(255, 77, 193, 0));
 } */
 
-#count-ttl {
-    text-align: center;
-    /* padding-top: 50px; */
-    font-size: 60px;
-    color: black;
-}
-
 #count {
     text-align: center;
     font-size: 50px;
