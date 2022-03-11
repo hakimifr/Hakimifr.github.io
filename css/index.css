@@ -130,12 +130,12 @@ html {
     transform: scale(1.2);
 }
 
-#lob {
+#love {
     text-align: center;
     margin-top: 23px;
 }
 
-#lob a {
+#love a {
     text-decoration-color: hotpink;
     text-decoration-style: solid;
     font-weight: bold;
@@ -145,7 +145,7 @@ html {
     transition-duration: 200ms;
 }
 
-#lob a:hover {
+#love a:hover {
     font-size: 23px;
 }
 
