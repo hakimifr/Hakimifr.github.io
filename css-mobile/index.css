@@ -1,6 +1,6 @@
 @media only screen and (max-width: 1024px) {
-    /* Hide reload button altogether for mobile */
     #reload {display: none}
-    /* .theme {transform: scale(1.3)} */
-    /* .theme:hover {transform: scale(1.5)} */
+    .theme-button {
+        
+    }
 }
