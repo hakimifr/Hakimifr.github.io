@@ -272,3 +272,7 @@ button {
     /* display: flex; */
     justify-content: center;
 }
+
+.misc-bottom-buttons {
+    display: flex;
+}
