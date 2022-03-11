@@ -210,8 +210,8 @@ button {
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
     transition-duration: 200ms;
     position: absolute;
-    bottom: 5%;
-    left: 3%;
+    bottom: 8%;
+    left: 50%;
 }
 
 .theme:hover {
