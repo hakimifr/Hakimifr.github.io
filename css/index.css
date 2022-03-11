@@ -95,7 +95,7 @@ html {
     transform: scale(1.2);
 }
 
-#nextpage2 {
+#nextpage-two {
     border-radius: 17px;
     background-color: #ff8cb8;
     border: none;
@@ -114,14 +114,14 @@ html {
     transition-duration: 200ms;
 }
 
-#nextpage2 a {
+#nextpage-two a {
     
     color: #000000;
     text-decoration: none;
     
 }
 
-#nextpage2:hover {
+#nextpage-two:hover {
     background-color: #ff478e;
     transform: scale(1.2);
 }
