@@ -28,11 +28,14 @@ html {
     color: black;
 }
 
+.math-buttons {
+    color: black;
+}
+
 #plus {
     border: none;
     padding-top: 10px;
     padding-bottom: 10px;
-    color: black;
     font-weight: bold;
     /* margin-bottom: 5px; */
     border-radius: 17px;
@@ -53,7 +56,6 @@ html {
     border: none;
     padding-top: 10px;
     padding-bottom: 10px;
-    color: black;
     font-weight: bold;
     margin-bottom: 5px;
     border-radius: 17px;
@@ -78,7 +80,6 @@ html {
     border: none;
     padding-top: 10px;
     padding-bottom: 10px;
-    color: black;
     font-weight: bold;
     margin-bottom: 5px;
     border-radius: 17px;
