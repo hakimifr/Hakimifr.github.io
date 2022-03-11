@@ -1,6 +1,9 @@
 @media only screen and (max-width: 1024px) {
     /* Hide reload button altogether for mobile */
     .reload {display: none}
+    .buttons-div {
+        transform: scale(1.2);
+    }
     #dark {
         left: calc(276px - 270px);
         /* padding-right: 10%; */
