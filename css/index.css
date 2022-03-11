@@ -246,9 +246,8 @@ button {
     padding-bottom: 10px;
     padding-right: 24px;
     padding-left: 24px;
-    margin-bottom: 5px;
-    margin-right: 5px;
-    margin-right: calc(margin-right * 5);
+    margin-bottom: 2%;
+    margin-right: 2%;
 }
 
 .exp-secpg {
