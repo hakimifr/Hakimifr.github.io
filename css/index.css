@@ -278,5 +278,5 @@ button {
 
 .about {
     display: flex;
-    justify-content: baseline;
+    justify-content: stretch;
 }
