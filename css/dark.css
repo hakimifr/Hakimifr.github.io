@@ -45,5 +45,8 @@ html {
 
 #nextpage-two {
     background-color: #a05874;
+}
+
+#nextpage-two a {
     color: whitesmoke;
 }
