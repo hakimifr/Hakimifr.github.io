@@ -43,14 +43,16 @@ html {
     color: whitesmoke;
 }
 
-#nextpage {
-    display: flexbox;
+/* #nextpage {
     background-color: #a05874;
     right: 50%;
     left: 50%;
-    /* align-items: center; */
 }
 
 #nextpage a {
     color: whitesmoke;
+} */
+
+.theme-button {
+    align-items: inherit;
 }
