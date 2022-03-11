@@ -20,7 +20,7 @@ html {
 #count-ttl {
     text-align: center;
     /* padding-top: 50px; */
-    padding-top: 3%;
+    margin-top: auto;
     font-size: 60px;
     color: black;
 }
