@@ -248,6 +248,13 @@ button {
     padding-left: 24px;
     margin-bottom: 5px;
     margin-right: 5px;
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 200ms;
+}
+
+.theme-button:hover {
+    transform: scale(1.2);
 }
 
 .exp-secpg {
