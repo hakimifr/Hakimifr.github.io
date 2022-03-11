@@ -275,3 +275,8 @@ button {
     transform: scale(1.2);
     color: black;
 }
+
+.about {
+    display: flex;
+    justify-content: center;
+}
