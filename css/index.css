@@ -277,6 +277,6 @@ button {
 }
 
 .about {
-    display: flex;
+    /* display: flex; */
     justify-content: center;
 }
