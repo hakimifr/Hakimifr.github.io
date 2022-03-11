@@ -30,21 +30,21 @@ html {
 
 .math-buttons {
     color: black;
-}
-
-#plus {
-    border: none;
     padding-top: 10px;
     padding-bottom: 10px;
-    font-weight: bold;
     margin-bottom: 5px;
-    border-radius: 17px;
-    background-color: hotpink;
-    cursor: pointer;
     transition-property: all;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
     transition-duration: 200ms;
     transform: scale(1);
+}
+
+#plus {
+    border: none;
+    font-weight: bold;
+    border-radius: 17px;
+    background-color: hotpink;
+    cursor: pointer;
 }
 
 #plus:hover {
@@ -54,10 +54,7 @@ html {
 
 #reset {
     border: none;
-    padding-top: 10px;
-    padding-bottom: 10px;
     font-weight: bold;
-    margin-bottom: 5px;
     border-radius: 17px;
     background-color: rgb(48, 189, 189);
     cursor: pointer;
@@ -65,10 +62,6 @@ html {
     margin-right: 10px;
     padding-left: 27px;
     padding-right: 27px;
-    transition-property: all;
-    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-    transition-duration: 200ms;
-    transform: scale(1);
 }
 
 #reset:hover {
@@ -78,17 +71,10 @@ html {
 
 #minus {
     border: none;
-    padding-top: 10px;
-    padding-bottom: 10px;
     font-weight: bold;
-    margin-bottom: 5px;
     border-radius: 17px;
     background-color: rgb(38, 212, 52);
     cursor: pointer;
-    transition-property: all;
-    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-    transition-duration: 200ms;
-    transform: scale(1);
 }
 
 #minus:hover {
