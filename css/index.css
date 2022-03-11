@@ -282,5 +282,6 @@ button {
 }
 
 .main-texts {
+    display: flex;
     justify-content: center;
 }
