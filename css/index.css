@@ -13,13 +13,9 @@ html {
     
 }
 
-/* body {
-    background: linear-gradient(to right, rgb(255, 77, 193) rgba(255, 77, 193, 0));
-} */
-
 .buttons-div {
     /* width: 100%; */
-    display: flex;
+    /* display: flex; */
     justify-content: center;
     align-items: center;
     text-decoration: none;
