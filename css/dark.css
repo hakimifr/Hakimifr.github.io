@@ -21,3 +21,7 @@ html {
 #plus:hover {
     background-color: blueviolet;
 }
+
+#reset {
+    background-color: blue;
+}
