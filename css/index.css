@@ -278,7 +278,7 @@ button {
 
 .about {
     display: inherit;
-    justify-content: stretch;
+    justify-content: center;
 }
 
 .main-texts {
