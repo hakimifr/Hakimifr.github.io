@@ -43,15 +43,15 @@ html {
     color: whitesmoke;
 }
 
-/* #nextpage {
+#nextpage {
     background-color: #a05874;
-    right: 50%;
-    left: 50%;
+    /* right: 50%; */
+    /* left: 50%; */
 }
 
 #nextpage a {
     color: whitesmoke;
-} */
+}
 
 .theme-button {
     align-items: inherit;
