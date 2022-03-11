@@ -233,15 +233,16 @@ button {
     position: absolute;
     display: flex;
     bottom: 18px;
-    padding-right: 28px;
-    padding-left: 28px;
-    padding-top: 10px;
-    padding-bottom: 10px;
+
 }
 
 .theme-button {
     border-radius: 70px;
     background-color: #ff8cb8;
+    padding-right: 28px;
+    padding-left: 28px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .exp-secpg {
