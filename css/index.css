@@ -277,7 +277,7 @@ button {
 }
 
 .about {
-    display: flex;
+    display: inherit;
     justify-content: stretch;
 }
 
