@@ -1,4 +1,11 @@
 @media only screen and (max-width: 1024px) {
     #reload {display: none}
-    
+    .theme-button {
+        /* make them stack on top of each other */
+        position: absolute;
+        bottom: 15px;
+        left: 18px;
+        /* make them stack on top of each other */
+        /* z-index: 1; */
+    }
 }
