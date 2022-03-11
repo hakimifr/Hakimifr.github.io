@@ -262,7 +262,7 @@ button {
     display: flex;
 } /* IDs: #dark, #light */
 
-#nextpage-two {
+.nextpage-two {
     border-radius: 17px;
     background-color: #ff8cb8;
     border: none;
@@ -281,14 +281,14 @@ button {
     transition-duration: 200ms;
 }
 
-#nextpage-two a {
+.nextpage-two a {
     
     color: #000000;
     text-decoration: none;
     
 }
 
-#nextpage-two:hover {
+.nextpage-two:hover {
     background-color: #ff478e;
     transform: scale(1.2);
 }
