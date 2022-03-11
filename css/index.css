@@ -127,6 +127,10 @@ html {
     transform: scale(1.2);
 }
 
+.about-texts {
+    color: black;
+}
+
 #love {
     text-align: center;
     margin-top: 23px;
@@ -145,6 +149,7 @@ html {
 #love a:hover {
     font-size: 23px;
 }
+
 #welcome {
     text-align: center;
     line-height: 24px;
