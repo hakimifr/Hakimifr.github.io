@@ -19,7 +19,7 @@
 function darktheme() {
     document.getElementById('bg').style.backgroundColor = 'black';
     document.getElementById('count-title').style.color = 'white';
-    document
+    document.getElementById('count-txt').style.color = 'white';
     localStorage.setItem('theme', 'dark')
 }
 

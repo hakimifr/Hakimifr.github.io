@@ -1,5 +1,5 @@
 
-document.getElementById("sum-el").textContent = ptext;
+var ptext = document.getElementById("sum-el").textContent;
 // document.getElementById("num1").textContent = num1;
 // document.getElementById("num2").textContent = num2;
 
