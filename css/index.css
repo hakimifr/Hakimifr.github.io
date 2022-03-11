@@ -230,6 +230,7 @@ button {
 } */
 
 .themes {
+    position: absolute;
     display: flex;
     bottom: 18px;
 }
