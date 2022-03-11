@@ -16,6 +16,7 @@ html {
 .buttons-div {
     /* width: 100%; */
     display: flex;
+    margin: auto;
     justify-content: center;
     align-items: center;
     text-decoration: none;
