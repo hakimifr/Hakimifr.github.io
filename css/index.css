@@ -37,25 +37,25 @@ html {
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
     transition-duration: 200ms;
     transform: scale(1);
-}
-
-#plus {
     border: none;
     font-weight: bold;
     border-radius: 17px;
+}
+
+.math-buttons:hover {
+    transform: scale(1.2);
+}
+
+#plus {
     background-color: hotpink;
     cursor: pointer;
 }
 
 #plus:hover {
     background-color: darkmagenta;
-    transform: scale(1.2);
 }
 
 #reset {
-    border: none;
-    font-weight: bold;
-    border-radius: 17px;
     background-color: rgb(48, 189, 189);
     cursor: pointer;
     margin-left: 10px;
@@ -66,20 +66,15 @@ html {
 
 #reset:hover {
     background-color: rgb(1, 129, 131);
-    transform: scale(1.2);
 }
 
 #minus {
-    border: none;
-    font-weight: bold;
-    border-radius: 17px;
     background-color: rgb(38, 212, 52);
     cursor: pointer;
 }
 
 #minus:hover {
     background-color: rgb(28, 122, 36);
-    transform: scale(1.2);
 }
 
 #nextpage-two {
