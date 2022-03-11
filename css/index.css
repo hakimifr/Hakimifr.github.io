@@ -277,11 +277,11 @@ button {
 }
 
 .about {
-    display: inherit;
+    display: flex;
     justify-content: center;
 }
 
 .main-texts {
-    display: inherit;
+    display: flex;
     justify-content: center;
 }
