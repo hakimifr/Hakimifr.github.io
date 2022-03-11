@@ -17,7 +17,7 @@ html {
     background: linear-gradient(to right, rgb(255, 77, 193) rgba(255, 77, 193, 0));
 } */
 
-.count-title {
+#count-ttl {
     text-align: center;
     padding-top: 50px;
     font-size: 60px;
