@@ -28,7 +28,7 @@ function darktheme() {
     // document.getElementById('bg').style.backgroundColor = 'black';
     // document.getElementById('count-title').style.color = 'white';
     // document.getElementById('count-txt').style.color = 'white';
-    loadCss('dark.css');
+    loadCss('../css/dark.css');
     localStorage.setItem('theme', 'dark');
 }
 
