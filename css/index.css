@@ -203,6 +203,7 @@ button {
 }
 
 .theme {
+    display: flex;
     border-radius: 30px;
     border: none;
     background-color: #ff8cb8;
@@ -218,6 +219,14 @@ button {
     background-color: #ff478e;
     transform: scale(1.2);
     cursor: pointer;
+}
+
+#dark {
+    left: 100%;
+}
+
+#light {
+    left: 407px;
 }
 
 .exp-secpg {
@@ -266,10 +275,3 @@ button {
     display: flex;
 } /* IDs: #dark, #light */
 
-#dark {
-    left: 100%;
-}
-
-#light {
-    left: 407px;
-}
