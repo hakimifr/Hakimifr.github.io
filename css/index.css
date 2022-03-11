@@ -231,6 +231,7 @@ button {
 
 .themes {
     display: flex;
+    bottom: 18px;
 }
 
 .exp-secpg {
