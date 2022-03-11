@@ -229,7 +229,9 @@ button {
     left: 407px;
 } */
 
-
+.themes {
+    display: flex;
+}
 
 .exp-secpg {
     margin-top: 1%;
