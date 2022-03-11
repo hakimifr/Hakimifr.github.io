@@ -255,6 +255,7 @@ button {
 
 .theme-button:hover {
     transform: scale(1.2);
+    cursor: pointer;
 }
 
 .exp-secpg {
