@@ -2,6 +2,7 @@
     /* Hide reload button altogether for mobile */
     .reload {display: none}
     #dark {
+        display: flex;
         left: calc(276px - 270px);
         /* padding-right: 10%; */
         margin: auto;
