@@ -6,6 +6,6 @@
         bottom: 15px;
         left: 18px;
         /* make them stack on top of each other */
-        /* z-index: 1; */
+        z-index: 1;
     }
 }
