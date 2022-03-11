@@ -23,7 +23,11 @@ html {
 }
 
 #reset {
-    background-color: blue;
+    background-color: rgb(0, 124, 155);
+}
+
+#reset {
+    background-color: rgb(0, 64, 80);
 }
 
 #minus {
