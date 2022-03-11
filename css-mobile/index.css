@@ -11,8 +11,6 @@
         padding-bottom: calc(padding-bottom * 2);
     }
     #light {
-        display: flex;
-        justify-content: flex;
         left: calc(407px - 270px);
         margin: auto;
         padding-left: calc(padding-left * 2);
