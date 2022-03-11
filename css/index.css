@@ -261,6 +261,7 @@ button {
 .misc-bottom-buttons {
     display: flex;
 } /* IDs: #dark, #light */
+
 #nextpage-two {
     border-radius: 17px;
     background-color: #ff8cb8;
