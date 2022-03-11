@@ -47,6 +47,7 @@ html {
     display: flex;
     background-color: #a05874;
     right: none;
+    left: none;
     align-items: center;
 }
 
