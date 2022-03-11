@@ -1,26 +1,6 @@
 @media only screen and (max-width: 1024px) {
     #reload {display: none}
     .theme-button {
-        /* make them stack on top of each other */
-        position: fixed;
-        bottom: 15px;
-        left: 18px;
-        padding-right: 45px;
-        padding-left: 45px;
-        /* align-items: center; */
-    }
-    #dark {
-        /* make them stack on top of each other */
-        position: absolute;
-        bottom: 3px;
-        left: 3px;
-        /* align-items: center; */
-    }
-    #light {
-        /* make them stack on top of each other */
-        position: absolute;
-        bottom: 20px;
-        left: 18px;
-        /* align-items: center; */
+        font-size: smaller;
     }
 }
