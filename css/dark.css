@@ -37,3 +37,7 @@ html {
 #minus:hover {
     background-color: rgb(0, 66, 0);
 }
+
+.theme-button {
+    background-color: rgb(87, 0, 99);
+}
