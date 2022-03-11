@@ -139,12 +139,12 @@ html {
     transform: scale(1.2);
 }
 
-.lob {
+#lob {
     text-align: center;
     margin-top: 23px;
 }
 
-.lob a {
+#lob a {
     text-decoration-color: hotpink;
     text-decoration-style: solid;
     font-weight: bold;
@@ -154,7 +154,7 @@ html {
     transition-duration: 200ms;
 }
 
-.lob a:hover {
+#lob a:hover {
     font-size: 23px;
 }
 
@@ -209,7 +209,7 @@ button {
     padding-right: 15px;
 }
 
-.welcome {
+#welcome {
     text-align: center;
     line-height: 24px;
     font-size: 14px;
