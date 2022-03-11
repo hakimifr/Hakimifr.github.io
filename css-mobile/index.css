@@ -1,7 +1,3 @@
 @media only screen and (max-width: 1024px) {
     #reload {display: none}
-    .theme-button {
-        padding-top: 2px;
-        padding-bottom: 2px;
-    }
 }
