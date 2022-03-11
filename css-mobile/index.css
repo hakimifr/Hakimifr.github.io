@@ -2,7 +2,7 @@
     /* Hide reload button altogether for mobile */
     .reload {display: none}
     .buttons-div {
-        transform: scale(1.6);
+        transform: scale(0.2);
     }
     #dark {
         left: calc(276px - 270px);
