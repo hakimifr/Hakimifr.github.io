@@ -16,11 +16,20 @@
 //     document.getElementById('count-txt').style.color = '#c9c9c9';
 //     localStorage.setItem('theme', 'dark');
 // }
+function loadCss(file) {
+    var link = document.createElement("link");
+    link.type = "text/css";
+    link.rel = "stylesheet";
+    link.href = file;
+    document.getElementsByTagName("head")[0].appendChild(link);
+}
+
 function darktheme() {
-    document.getElementById('bg').style.backgroundColor = 'black';
-    document.getElementById('count-title').style.color = 'white';
-    document.getElementById('count-txt').style.color = 'white';
-    localStorage.setItem('theme', 'dark')
+    // document.getElementById('bg').style.backgroundColor = 'black';
+    // document.getElementById('count-title').style.color = 'white';
+    // document.getElementById('count-txt').style.color = 'white';
+    loadCss('dark.css');
+    localStorage.setItem('theme', 'dark');
 }
 
 function lighttheme() {
@@ -44,12 +53,3 @@ if (theme == "dark") {
 } else if (theme == "light") {
     lighttheme();
 } else {}
-
-
-var file = location.pathname.split( "/" ).pop();
-var link = document.createElement( "link" );
-link.href = file.substr( 0, file.lastIndexOf( "." ) ) + ".css";
-link.type = "text/css";
-link.rel = "stylesheet";
-link.media = "screen,print";
-document.getElementsByTagName( "head" )[0].appendChild( link );
