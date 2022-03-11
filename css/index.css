@@ -1,3 +1,5 @@
+/* id = # *
+/* class = . */
 html {
     background-color: white;
     font-family: 'Quicksand', sans-serif;
@@ -39,7 +41,7 @@ html {
 
 }
 
-#plus {
+/* #plus {
     border: none;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -104,7 +106,7 @@ html {
 #minus:hover {
     background-color: rgb(28, 122, 36);
     transform: scale(1.2);
-}
+} */
 
 .nextpage2 {
     border-radius: 17px;
