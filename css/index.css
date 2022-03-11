@@ -17,18 +17,18 @@ html {
     background: linear-gradient(to right, rgb(255, 77, 193) rgba(255, 77, 193, 0));
 } */
 
-#count {
-    text-align: center;
-    font-size: 50px;
-    color: black;
-}
-
 .buttons-div {
     width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
     text-decoration: none;
+    color: black;
+}
+
+#count {
+    text-align: center;
+    font-size: 50px;
     color: black;
 }
 
