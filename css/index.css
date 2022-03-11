@@ -34,7 +34,7 @@ html {
     padding-bottom: 10px;
     color: black;
     font-weight: bold;
-    margin-bottom: 5px;
+    /* margin-bottom: 5px; */
     border-radius: 17px;
     background-color: hotpink;
     cursor: pointer;
