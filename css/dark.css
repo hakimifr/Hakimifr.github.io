@@ -44,10 +44,10 @@ html {
 }
 
 #nextpage {
-    display: flex;
+    display: flexbox;
     background-color: #a05874;
-    right: 1%;
-    left: 1%;
+    right: 50%;
+    left: 50%;
     /* align-items: center; */
 }
 
