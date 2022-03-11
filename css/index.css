@@ -203,7 +203,6 @@ button {
 }
 
 .theme {
-    position: absolute;
     bottom: 15px;
     border-radius: 30px;
     border: none;
