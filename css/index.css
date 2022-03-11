@@ -233,7 +233,9 @@ button {
     position: absolute;
     display: flex;
     bottom: 18px;
-    border: none;
+}
+
+.theme {
     border-radius: 100%;
 }
 
