@@ -223,14 +223,6 @@ button {
     cursor: pointer;
 }
 
-#dark {
-    left: 276px;
-}
-
-#light {
-    left: 407px;
-}
-
 .exp-secpg {
     margin-top: 1%;
     margin-bottom: -0.8%;
@@ -275,4 +267,12 @@ button {
 
 .misc-bottom-buttons {
     display: flex;
+} /* IDs: #dark, #light */
+
+#dark {
+    left: 276px;
+}
+
+#light {
+    left: 407px;
 }
