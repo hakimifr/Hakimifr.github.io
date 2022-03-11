@@ -242,7 +242,7 @@ button {
     border: none;
     border-radius: 70px;
     background-color: #ff8cb8;
-    padding: auto;
+    padding: 2px;
     padding-right: 36px;
     padding-left: 36px;
 }
