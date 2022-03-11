@@ -145,6 +145,11 @@ html {
 #love a:hover {
     font-size: 23px;
 }
+#welcome {
+    text-align: center;
+    line-height: 24px;
+    font-size: 14px;
+}
 
 .reload {
     border-radius: 17px;
@@ -195,12 +200,6 @@ button {
     padding: 9px;
     padding-left: 15px;
     padding-right: 15px;
-}
-
-#welcome {
-    text-align: center;
-    line-height: 24px;
-    font-size: 14px;
 }
 
 /* .theme {
