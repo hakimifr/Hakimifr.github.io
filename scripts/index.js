@@ -19,3 +19,7 @@ function whatever() {
     console.log("decrement button was pressed")
     co.innerText = `count: ${count}`
 }
+
+function reload() {
+    window.location.href = "index.html";
+}
