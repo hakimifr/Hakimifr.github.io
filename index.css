@@ -1,0 +1,75 @@
+html {
+    font-family: 'Quicksand', sans-serif;
+}
+
+#title {
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.div {
+    display: flex;
+}
+
+#table-div {
+    justify-content: center;
+    align-items: center;
+    padding-top: 3%;
+}
+
+.table {
+    border: 1em;
+    border-radius: 3%;
+    grid: 50%;
+}
+
+.table-header {
+    font-size: large;
+}
+
+.table-row {
+    text-align: center;
+    row-gap: 15%;
+    grid: 50%;
+}
+
+#result-anchor {
+    border: none;
+    border-radius: 5em;
+    padding: 3px;
+    background-color: black;
+    color: white;
+    transition-duration: 100ms;
+}
+
+#result-anchor:hover {
+    padding-left: 4%;
+    padding-right: 4%;
+    transform: scale(105%);
+    transition-duration: 200ms;
+}
+
+.button {
+    border: none;
+    color: white;
+    background-color: black;
+    font-family: 'Quicksand', sans-serif;
+    font-size: medium;
+    border-radius: 5em;
+    padding: 9px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.button:hover {
+    font-weight: bold;
+    cursor: pointer;
+    transform: scale(105%);
+}
+
+#button-div {
+    align-items: center;
+    justify-content: center;
+    padding-top: 2%;
+}

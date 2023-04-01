@@ -1,58 +1,110 @@
 <!DOCTYPE html>
+<html lang="en">
 
-<html id="bg">
-    <link rel="stylesheet" href="css/index.css">
-    <link rel="stylesheet" href="css-mobile/index.css">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="description" content="description test?">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
 
-        <title>hakimi's experimental page</title>
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand&display=swap" rel="stylesheet">
+</head>
 
-        <!-- Fonts -->
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Quicksand&display=swap" rel="stylesheet">
-        <!-- <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@0,100;0,300;0,400;0,500;0,700;0,800;0,900;1,100;1,300;1,400;1,500;1,700;1,800;1,900&display=swap" rel="stylesheet"> -->
+<body>
+    <header id="title">Hakimi's latest result (PNG)</header>
 
-    </head>
-    <body>
-        <div class="main-texts">
-            <h2 id="count">count: 0</h2>
-        </div>
-        <div class="buttons-div">
-            <button class="math-buttons" id="plus" onclick="increment()">increment</button>
-            <button class="math-buttons" id="reset" onclick="nuke()">reset</button>
-            <button class="math-buttons" id="minus" onclick="whatever()">decrement</button>
-        </div>
-        
-        <div class="about">
-            <p class="about-texts" id="love">made with ❤️ by <a href="html/redirect_github.html">hakimi</a></p>
-            <p class="about-texts" id="welcome">welcome to my page where i experiment with html and css.<br>enjoy the counter!</p>
-            <!-- <img src="https://pbs.twimg.com/profile_images/1354479643882004483/Btnfm47p_400x400.jpg" class="twitter-img" alt=""> -->
-        </div>
+    <div class="div" id="table-div">
+        <table class="table">
+            <tr class="table-row">
+                <th class="table-header">Subject</th>
+                <th class="table-header">Grade</th>
+                <th class="table-header">Percentage</th>
+            </tr>
 
-        <div class="themes">
-            <!-- <button class="source"><a href="https://github.com/Hakimi0804/html-js-css-stuff">source code</a></button> -->
-            <button class="theme-button" id="reload" onclick="reload()">having troubles? reload the page</button>
-            <button class="theme-button" id="dark" onclick="changetheme('dark')">dark theme</button>
-            <button class="theme-button" id="light" onclick="changetheme('light')">light theme</button>
-        
-            <!-- tmp -->
-            <!-- <button class="exp-secpg" onclick="beam('html/second.html')"><a class="exp-secpg-txt" href="html/second.html">access experimental second page</a></button> -->
-            <!-- endtmp -->
-        </div>
+            <tr class="table-row">
+                <td class="table-data">Bahasa Melayu</td>
+                <td class="table-data">A+</td>
+                <td class="table-data">96</td>
+            </tr>
 
-        <div class="misc-bottom-buttons">
-            <button class="nextpage-two" id="nextpage"><a href="html/coming_soon.html">next page ></a></button>
-        </div>
+            <tr class="table-row">
+                <td class="table-data">Bahasa Inggeris</td>
+                <td class="table-data">A-</td>
+                <td class="table-data">78</td>
+            </tr>
 
-    </body>
-    <script src="scripts/theme.js"></script>
-    <script src="scripts/index.js"></script>
-    <script src="scripts/redirect.js"></script>
+            <tr class="table-row">
+                <td class="table-data">Sejarah</td>
+                <td class="table-data">B-</td>
+                <td class="table-data">69</td>
+            </tr>
+
+            <tr class="table-row">
+                <td class="table-data">Geografi</td>
+                <td class="table-data">A-</td>
+                <td class="table-data">80</td>
+            </tr>
+
+            <tr class="table-row">
+                <td class="table-data">Matematik</td>
+                <td class="table-data">A-</td>
+                <td class="table-data">75</td>
+            </tr>
+
+            <tr class="table-row">
+                <td class="table-data">Sains Teras</td>
+                <td class="table-data">B+</td>
+                <td class="table-data">75</td>
+            </tr>
+
+            <tr class="table-row">
+                <td class="table-data">Reka Bentuk dan Teknologi</td>
+                <td class="table-data">A+</td>
+                <td class="table-data">87</td>
+            </tr>
+
+            <tr class="table-row">
+                <td class="table-data">Pendidikan Islam</td>
+                <td class="table-data">A+</td>
+                <td class="table-data">93</td>
+            </tr>
+
+            <tr class="table-row">
+                <td class="table-data">Pend. Jasmani dan Kesihatan</td>
+                <td class="table-data">A</td>
+                <td class="table-data">84</td>
+            </tr>
+
+            <tr class="table-row">
+                <td class="table-data">Pendidikan Seni</td>
+                <td class="table-data">A-</td>
+                <td class="table-data">77</td>
+            </tr>
+
+            <tr class="table-row">
+                <td class="table-data">Bahasa Arab Komunikasi</td>
+                <td class="table-data">L</td>
+                <td class="table-data">91</td>
+            </tr>
+
+            <tr class="table-row">
+                <td class="table-data">Sains Komputer</td>
+                <td class="table-data">L</td>
+                <td class="table-data">90</td>
+            </tr>
+        </table>
+    </div>
+
+    <div class="div" id="button-div">
+        <a id="result-anchor" href="files/resultpt3.pdf">
+            <button class="button">View pt3-based result</button>
+        </a>
+    </div>
+</body>
+
+<link rel="stylesheet" href="index.css">
+
 </html>
