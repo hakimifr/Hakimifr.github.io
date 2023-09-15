@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {font-family: Arial, Helvetica, sans-serif;}
+form {
+	border: 3px solid #f1f1f1;
+	width: 25%;
+	}
+
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  text-align:center;
+}
+
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+.button11 {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+	border-radius: 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button111 {
+    background-color: #4CAF50;
+    color: white; 
+    border: 2px solid black;
+}
+
+.button111:hover {
+	background-color: #e7e7e7; 
+    color: black;
+}
+
+
+.cancelbtn {
+  width: auto;
+  padding: 10px 18px;
+  background-color: #f44336;
+}
+
+.imgcontainer {
+  background-image: url("images/bg-02.png");
+  background-color: #cccccc;
+  height: 330px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  
+}
+}
+
+img.avatar {
+  width: 40%;
+  border-radius: 50%;
+}
+
+.container {
+  padding: 16px;
+  /*width: 25%;*/
+}
+
+span.psw {
+  float: right;
+  padding-top: 16px;
+}
+
+p.a {
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:22px;
+	font-weight:bold;
+}
+
+div.b {
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+}
+/* Change styles for span and cancel button on extra small screens */
+@media screen and (max-width: 768px) {
+  span.psw {
+     display: block;
+     float: none;
+  }
+  .cancelbtn {
+     width: 100%;
+  }
+  
+  form {
+	border: 3px solid #f1f1f1;
+	width: 90%;
+	}
+	
+  .container {
+     padding: 16px;
+     width: 90%;
+	}
+}
+</style>
+<title>..:: e-Pelajar MRSMKuala Klawang::..</title>
+</head>
+<body>
+
+<h3 align="center">Selamat Datang ke Sistem<BR>
+<img src="images/epelajar.png" width="126" height="47" alt="e-Pelajar"></h3>
+
+<div align="center">
+<form action="https://mrsmkualaklawang.edu.my/epelajar/MenuUtama.asp" class="imgcontainer" method="POST">
+  <p class="a">Maktab Rendah Sains MARA<br>Kuala Klawang</p>
+
+  <div class="container">
+    <label for="uname"><b>ID Pengguna</b></label>
+    <input name="txtNoMak" type="text" required id="txtNoMak" placeholder="Masukkan ID Pengguna">
+
+    <label for="psw"><b>Katalaluan</b></label>
+    <input type="password" placeholder="Masukkan Katalaluan" name="txtPwd" required>
+        
+    <button class="button11 button111" type="submit">LOG MASUK</button>
+    <label>
+      
+    </label>
+  </div>
+
+  <div class="container" style="background-color:#f1f1f1">
+    
+    <div class="b">
+    Jika terdapat sebarang masalah, sila emel ke syahrul.affendi@kklawang.mrsm.edu.my<br><br>
+    @Hakcipta terpelihara. MKH-SS 2019.
+    </div>
+  </div>
+</form>
+</div>
+
+</body>
+</html>
