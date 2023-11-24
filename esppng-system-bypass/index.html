@@ -6,14 +6,17 @@
     <title>login page bypass by hakimi</title>
 </head>
 <body>
-    <form id="credentials-form" action="https://mrsmkualaklawang.edu.my/epelajar/MenuUtama.asp">
-        <label for="txtNoMak">No. Maktab:</label>
-        <input type="text" id="txtNoMak" name="txtNoMak"><br><br>
+    <form action="https://mrsmkualaklawang.edu.my/epelajar/MenuUtama.asp" class="imgcontainer" method="POST">
+    <label for="uname"><b>ID Pengguna</b></label>
+    <input name="txtNoMak" type="text" required id="txtNoMak" placeholder="Masukkan ID Pengguna">
 
-        <label for="txtPwd">No. KP:</label>
-        <input type="password" id="txtPwd" name="txtPwd" required><br><br>
-
-        <input type="submit" name="Submit">
+    <label for="psw"><b>Katalaluan</b></label>
+    <input type="password" placeholder="Masukkan Katalaluan" name="txtPwd" required>
+        
+    <button class="button11 button111" type="submit">LOG MASUK</button>
+    <label>
+      
+    </label>
     </form>
 </body>
 <script src="index.js"></script>
