@@ -1,0 +1,28 @@
+html {
+    font-family: 'Quicksand', sans-serif;
+    background-color: rgb(245, 178, 178);
+}
+
+.hello {
+    position: relative;
+    text-align: center;
+}
+
+input {
+    border-radius: 7px;
+    border-color: green;
+}
+
+button {
+    border: none;
+    border-radius: 13px;
+    background-color: rgb(193, 2, 138);
+    color: white;
+    padding: 5px;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 200ms;
+}
+
+button:hover {
+    transform: scale(1.3);
+}
