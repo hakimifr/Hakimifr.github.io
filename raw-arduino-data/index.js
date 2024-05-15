@@ -1,8 +1,4 @@
-function sleep(ms) {
-  return new Promise(resolve => setTimeout(resolve, ms))
-}
-
-while (true) {
+function updateRandVal() {
   let randVal1 = Math.random();
   let randVal2 = Math.random(); 
   let randVal3 = Math.random();
@@ -14,3 +10,5 @@ while (true) {
 
   document.getElementById("seabed").innerText = 100 + randVal4 + randVal5 + randVal6;
 }
+
+setInterval(updateRandVal, 1000);
