@@ -13,6 +13,4 @@ while (true) {
   document.getElementById("temp").innerText = 30 + randVal1 + randVal2 + randVal3;
 
   document.getElementById("seabed").innerText = 100 + randVal4 + randVal5 + randVal6;
-
-  sleep(1000);
 }
